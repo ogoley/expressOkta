@@ -1,0 +1,14 @@
+{
+  "name": "expressokta",
+  "version": "1.0.0",
+  "description": "A sample app with express and okta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
